@@ -1,1 +1,1 @@
-This is text
+We are now working on our very first feature.  It's really exciting to be doing this.
